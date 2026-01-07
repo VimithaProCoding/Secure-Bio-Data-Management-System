@@ -1,0 +1,4 @@
+install this libraries for run..
+  pip install cryptography
+  pip install hashlib
+  pip install pwinput
